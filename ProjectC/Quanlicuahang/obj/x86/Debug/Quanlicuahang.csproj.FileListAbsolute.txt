@@ -1,0 +1,24 @@
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.exe
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.pdb
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.frBanHang.resources
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.Properties.Resources.resources
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csproj.GenerateResource.Cache
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.exe
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.pdb
+C:\Users\hochituong\Desktop\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csprojResolveAssemblyReference.cache
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.exe
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.pdb
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.exe
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.pdb
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csprojResolveAssemblyReference.cache
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.frBanHang.resources
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.Properties.Resources.resources
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csproj.GenerateResource.Cache
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.exe
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.pdb
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.exe
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.pdb
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csprojResolveAssemblyReference.cache
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.frBanHang.resources
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.Properties.Resources.resources
+C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csproj.GenerateResource.Cache
