@@ -22,3 +22,11 @@ C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x
 C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.frBanHang.resources
 C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.Properties.Resources.resources
 C:\Users\hochituong\Desktop\ProjectC\NEW\New folder\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csproj.GenerateResource.Cache
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.exe
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.pdb
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.exe
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\bin\Debug\Quanlicuahang.pdb
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csprojResolveAssemblyReference.cache
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.frBanHang.resources
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.Properties.Resources.resources
+H:\luu data\hoctap\tailieu\hkVII\pttkhdt\baicuahuy\thunghiem\Pro\ProjectC\Quanlicuahang\obj\x86\Debug\Quanlicuahang.csproj.GenerateResource.Cache
