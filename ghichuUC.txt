@@ -1,0 +1,20 @@
+﻿	    BẢN GHI CHÉP PHƯƠNG PHÁP MÔ TẢ USE CASE
+
+I-Pre condition:
+	1/ Actors: ghi chép lại tác nhân đã xét trong UC có tham
+gia vào UC đang xét này
+	2/ Điều kiện: ghi chép lại điều kiện BẮT BUỘC phải THAO TÁC mới có thể HOẠT
+ĐỘNG UC đang xét được
+II-Trigger:
+	1/ Liệt kê hành động thực hiện để xảy ra UC này
+III-Basic flow:
+	Liệt kê tuần tự những thao tác cơ bản để thực hiện bên
+trong UC
+IV-Alternative flow:
+	Chỉ ra những thao tác có trường hợp ngược lại (trường hợp
+không đúng với yêu cầu của hệ thống) và chỉ ra thao tác bị
+rollback sau đó
+V-Business rule:
+	Liệt kê những quy định của nhóm về cách thực làm việc
+trong UC
+	
